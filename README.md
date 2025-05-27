@@ -31,8 +31,9 @@ A command-line To-Do List app written in Python that lets users manage **daily t
 git clone https://github.com/YOUR_USERNAME/todo_list.git
 cd todo_list
 python todo.py
-
 ```
+
+---
 
 ## How To Use
 You’ll be guided through menus to:
@@ -45,7 +46,7 @@ You’ll be guided through menus to:
 
    - Delete tasks
 
-Example: 
+# Example: 
 1. Add Task
 2. View Tasks
 3. Mark Task Complete
