@@ -52,3 +52,10 @@ You’ll be guided through menus to:
 3. Mark Task Complete
 4. Delete Task
 5. Exit
+
+# Sample Task Types
+
+- Daily Tasks:
+     Buy groceries (Daily)
+- Project Task
+     Finish project proposal (Project - Due: 2024-12-01, Priority: High)
