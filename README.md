@@ -58,4 +58,11 @@ You’ll be guided through menus to:
 - Daily Tasks:
      Buy groceries (Daily)
 - Project Task
-     Finish project proposal (Project - Due: 2024-12-01, Priority: High)
+     Finish project proposal (Project - Due: YYYY-MM-DD, Priority: High)
+---
+
+## Future Features
+- GUI or Web Version
+- Overdue Alerts
+- Time formatting
+- export?
